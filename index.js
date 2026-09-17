@@ -23383,7 +23383,7 @@ function BeeSwarmSimulator(DATA){
             redConvertRate:1,
             blueConvertRate:1,
             whiteConvertRate:1,
-            convertRateAtHive:1,
+            convertRateAtHive:100,
             whitePollen:1.5,
             redPollen:1.5,
             bluePollen:1.5,
